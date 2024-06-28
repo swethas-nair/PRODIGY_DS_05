@@ -2,7 +2,7 @@ Project Title : Road Accident Analysis
 
 Project Description:
 
-*The purpose of this Power BI dashboard is to analyze road accident data and identify patterns and trends that can help improve road safety. 
+* The purpose of this Power BI dashboard is to analyze road accident data and identify patterns and trends that can help improve road safety. 
 
 * The data includes information about accidents, such as the number of vehicles involved, severity of the accident,Road surface Condition, weather conditions etc.
 
