@@ -2,19 +2,21 @@ Project Title : Road Accident Analysis
 
 Project Description:
 
-* To Analyse road accident data to identify patterns related to road conditions, weather and time of the day.
-  
-* To visualise accident hotspots and number of casualities by vehicles.
+*The purpose of this Power BI dashboard is to analyze road accident data and identify patterns and trends that can help improve road safety. 
 
-Tools Used:
+* The data includes information about accidents, such as the number of vehicles involved, severity of the accident,Road surface Condition, weather conditions etc.
 
--> Kaggle - Sample source data
+* Through the analysis, we seek to gain valuable insights and give a visual form of insight that can inform effective strategies for enhancing road safety and reducing the frequency and severity of accidents.
 
--> PowerBI - Visualisation of Data
+Steps involved:
 
--> Power Query Editor - To remove duplicate and null values from the dataset
+-> Extracting the data from Kaggle.
 
--> Excel - Data cleaning and preprocessing of data
+-> Imported the data into Power BI and cleaned it to ensure it was accurate and ready for analysis.
+
+-> Transforming the data in Power Query in Power BI.
+
+-> Loading it in the Power BI and creating dashboard using various charts and DAX queries.
 
 Project Deliverables:
 
